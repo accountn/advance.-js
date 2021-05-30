@@ -9,8 +9,8 @@ function add(num1,num2){
     console.log(num1,num2)
 }
 
-const premik = {name: 'bindas', phone: 0247593};
-console.log(premik.gf);
+const premik = {name: 'bindas', phone: 01764423104 }
+console.log(premik.phone);
 
 const fun = undefined;
 console.log(fun);
